@@ -1,0 +1,434 @@
+Country,Vaccine Used,Number of Vaccines Used
+Afghanistan,Oxford/AstraZeneca,3
+Afghanistan,Pfizer/BioNTech,3
+Afghanistan,Sinopharm/Beijing,3
+Albania,Oxford/AstraZeneca,4
+Albania,Pfizer/BioNTech,4
+Albania,Sinovac,4
+Albania,SputnikV,4
+Andorra,Oxford/AstraZeneca,2
+Andorra,Pfizer/BioNTech,2
+Angola,Oxford/AstraZeneca,1
+Anguilla,Oxford/AstraZeneca,1
+Antigua and Barbuda,Oxford/AstraZeneca,1
+Argentina,Oxford/AstraZeneca,3
+Argentina,Sinopharm/Beijing,3
+Argentina,SputnikV,3
+Armenia,Oxford/AstraZeneca,3
+Armenia,Sinovac,3
+Armenia,SputnikV,3
+Aruba,Pfizer/BioNTech,1
+Australia,Oxford/AstraZeneca,2
+Australia,Pfizer/BioNTech,2
+Austria,Johnson&Johnson,4
+Austria,Moderna,4
+Austria,Oxford/AstraZeneca,4
+Austria,Pfizer/BioNTech,4
+Azerbaijan,Oxford/AstraZeneca,2
+Azerbaijan,Sinovac,2
+Bahamas,Oxford/AstraZeneca,1
+Bahrain,Oxford/AstraZeneca,4
+Bahrain,Pfizer/BioNTech,4
+Bahrain,Sinopharm/Beijing,4
+Bahrain,SputnikV,4
+Bangladesh,Oxford/AstraZeneca,1
+Barbados,Oxford/AstraZeneca,1
+Belarus,SputnikV,1
+Belgium,Johnson&Johnson,4
+Belgium,Moderna,4
+Belgium,Oxford/AstraZeneca,4
+Belgium,Pfizer/BioNTech,4
+Belize,Oxford/AstraZeneca,1
+Bermuda,Pfizer/BioNTech,1
+Bhutan,Oxford/AstraZeneca,1
+Bolivia,Oxford/AstraZeneca,4
+Bolivia,Pfizer/BioNTech,4
+Bolivia,Sinopharm/Beijing,4
+Bolivia,SputnikV,4
+Bosnia and Herzegovina,Oxford/AstraZeneca,4
+Bosnia and Herzegovina,Pfizer/BioNTech,4
+Bosnia and Herzegovina,Sinovac,4
+Bosnia and Herzegovina,SputnikV,4
+Botswana,Oxford/AstraZeneca,1
+Brazil,Oxford/AstraZeneca,3
+Brazil,Pfizer/BioNTech,3
+Brazil,Sinovac,3
+Brunei,Oxford/AstraZeneca,1
+Bulgaria,Johnson&Johnson,4
+Bulgaria,Moderna,4
+Bulgaria,Oxford/AstraZeneca,4
+Bulgaria,Pfizer/BioNTech,4
+Cambodia,Oxford/AstraZeneca,3
+Cambodia,Sinopharm/Beijing,3
+Cambodia,Sinovac,3
+Cameroon,Oxford/AstraZeneca,2
+Cameroon,Sinopharm/Beijing,2
+Canada,Moderna,3
+Canada,Oxford/AstraZeneca,3
+Canada,Pfizer/BioNTech,3
+Cape Verde,Oxford/AstraZeneca,2
+Cape Verde,Pfizer/BioNTech,2
+Cayman Islands,Oxford/AstraZeneca,2
+Cayman Islands,Pfizer/BioNTech,2
+Chile,Oxford/AstraZeneca,3
+Chile,Pfizer/BioNTech,3
+Chile,Sinovac,3
+China,Sinopharm/Beijing,3
+China,Sinopharm/Wuhan,3
+China,Sinovac,3
+Colombia,Oxford/AstraZeneca,3
+Colombia,Pfizer/BioNTech,3
+Colombia,Sinovac,3
+Comoros,Covaxin,3
+Comoros,Oxford/AstraZeneca,3
+Comoros,Sinopharm/Beijing,3
+Congo,Moderna,4
+Congo,Oxford/AstraZeneca,4
+Congo,Sinopharm/Beijing,4
+Congo,SputnikV,4
+Costa Rica,Oxford/AstraZeneca,2
+Costa Rica,Pfizer/BioNTech,2
+Cote d'Ivoire,Oxford/AstraZeneca,1
+Croatia,Moderna,3
+Croatia,Oxford/AstraZeneca,3
+Croatia,Pfizer/BioNTech,3
+Curacao,Moderna,2
+Curacao,Pfizer/BioNTech,2
+Cyprus,Johnson&Johnson,3
+Cyprus,Oxford/AstraZeneca,3
+Cyprus,Pfizer/BioNTech,3
+Czechia,Johnson&Johnson,4
+Czechia,Moderna,4
+Czechia,Oxford/AstraZeneca,4
+Czechia,Pfizer/BioNTech,4
+Democratic Republic of Congo,Oxford/AstraZeneca,1
+Denmark,Moderna,2
+Denmark,Pfizer/BioNTech,2
+Dominica,Oxford/AstraZeneca,1
+Dominican Republic,Oxford/AstraZeneca,3
+Dominican Republic,Sinopharm/Beijing,3
+Dominican Republic,Sinovac,3
+Ecuador,Oxford/AstraZeneca,3
+Ecuador,Pfizer/BioNTech,3
+Ecuador,Sinovac,3
+Egypt,Oxford/AstraZeneca,4
+Egypt,Sinopharm/Beijing,4
+Egypt,Sinovac,4
+Egypt,SputnikV,4
+El Salvador,Oxford/AstraZeneca,3
+El Salvador,Pfizer/BioNTech,3
+El Salvador,Sinovac,3
+England,Moderna,3
+England,Oxford/AstraZeneca,3
+England,Pfizer/BioNTech,3
+Equatorial Guinea,Sinopharm/Beijing,1
+Estonia,Johnson&Johnson,4
+Estonia,Moderna,4
+Estonia,Oxford/AstraZeneca,4
+Estonia,Pfizer/BioNTech,4
+Eswatini,Oxford/AstraZeneca,1
+Ethiopia,Oxford/AstraZeneca,1
+Faeroe Islands,Moderna,2
+Faeroe Islands,Pfizer/BioNTech,2
+Fiji,Oxford/AstraZeneca,1
+Finland,Moderna,3
+Finland,Oxford/AstraZeneca,3
+Finland,Pfizer/BioNTech,3
+France,Johnson&Johnson,4
+France,Moderna,4
+France,Oxford/AstraZeneca,4
+France,Pfizer/BioNTech,4
+French Polynesia,Oxford/AstraZeneca,1
+Gabon,Sinopharm/Beijing,1
+Gambia,Oxford/AstraZeneca,1
+Georgia,Oxford/AstraZeneca,1
+Germany,Johnson&Johnson,4
+Germany,Moderna,4
+Germany,Oxford/AstraZeneca,4
+Germany,Pfizer/BioNTech,4
+Ghana,Oxford/AstraZeneca,1
+Gibraltar,Pfizer/BioNTech,1
+Greece,Johnson&Johnson,4
+Greece,Moderna,4
+Greece,Oxford/AstraZeneca,4
+Greece,Pfizer/BioNTech,4
+Greenland,Pfizer/BioNTech,1
+Grenada,Oxford/AstraZeneca,1
+Guatemala,Moderna,2
+Guatemala,Oxford/AstraZeneca,2
+Guernsey,Moderna,3
+Guernsey,Oxford/AstraZeneca,3
+Guernsey,Pfizer/BioNTech,3
+Guinea,SputnikV,1
+Guyana,Oxford/AstraZeneca,2
+Guyana,SputnikV,2
+Honduras,Moderna,2
+Honduras,Oxford/AstraZeneca,2
+Hong Kong,Pfizer/BioNTech,2
+Hong Kong,Sinovac,2
+Hungary,Moderna,5
+Hungary,Oxford/AstraZeneca,5
+Hungary,Pfizer/BioNTech,5
+Hungary,Sinopharm/Beijing,5
+Hungary,SputnikV,5
+Iceland,Johnson&Johnson,4
+Iceland,Moderna,4
+Iceland,Oxford/AstraZeneca,4
+Iceland,Pfizer/BioNTech,4
+India,Covaxin,2
+India,Oxford/AstraZeneca,2
+Indonesia,Oxford/AstraZeneca,2
+Indonesia,Sinovac,2
+Iran,Covaxin,4
+Iran,Oxford/AstraZeneca,4
+Iran,Sinopharm/Beijing,4
+Iran,SputnikV,4
+Iraq,Oxford/AstraZeneca,2
+Iraq,Sinopharm/Beijing,2
+Ireland,Johnson&Johnson,4
+Ireland,Moderna,4
+Ireland,Oxford/AstraZeneca,4
+Ireland,Pfizer/BioNTech,4
+Isle of Man,Oxford/AstraZeneca,2
+Isle of Man,Pfizer/BioNTech,2
+Israel,Moderna,2
+Israel,Pfizer/BioNTech,2
+Italy,Johnson&Johnson,4
+Italy,Moderna,4
+Italy,Oxford/AstraZeneca,4
+Italy,Pfizer/BioNTech,4
+Japan,Pfizer/BioNTech,1
+Jersey,Oxford/AstraZeneca,2
+Jersey,Pfizer/BioNTech,2
+Jordan,Pfizer/BioNTech,2
+Jordan,Sinopharm/Beijing,2
+Kazakhstan,QazVac,3
+Kazakhstan,Sinopharm/HayatVax,3
+Kazakhstan,SputnikV,3
+Kenya,Oxford/AstraZeneca,2
+Kenya,SputnikV,2
+Kosovo,Oxford/AstraZeneca,1
+Kuwait,Pfizer/BioNTech,1
+Kyrgyzstan,Sinopharm/Beijing,2
+Kyrgyzstan,SputnikV,2
+Laos,Sinopharm/Beijing,2
+Laos,SputnikV,2
+Latvia,Johnson&Johnson,4
+Latvia,Moderna,4
+Latvia,Oxford/AstraZeneca,4
+Latvia,Pfizer/BioNTech,4
+Lebanon,Oxford/AstraZeneca,4
+Lebanon,Pfizer/BioNTech,4
+Lebanon,Sinopharm/Beijing,4
+Lebanon,SputnikV,4
+Lesotho,Oxford/AstraZeneca,1
+Libya,Johnson&Johnson,5
+Libya,Moderna,5
+Libya,Oxford/AstraZeneca,5
+Libya,Pfizer/BioNTech,5
+Libya,SputnikV,5
+Liechtenstein,Moderna,2
+Liechtenstein,Pfizer/BioNTech,2
+Lithuania,Johnson&Johnson,4
+Lithuania,Moderna,4
+Lithuania,Oxford/AstraZeneca,4
+Lithuania,Pfizer/BioNTech,4
+Luxembourg,Moderna,3
+Luxembourg,Oxford/AstraZeneca,3
+Luxembourg,Pfizer/BioNTech,3
+Macao,Pfizer/BioNTech,2
+Macao,Sinopharm/Beijing,2
+Malawi,Oxford/AstraZeneca,1
+Malaysia,Oxford/AstraZeneca,3
+Malaysia,Pfizer/BioNTech,3
+Malaysia,Sinovac,3
+Maldives,Oxford/AstraZeneca,3
+Maldives,Pfizer/BioNTech,3
+Maldives,Sinopharm/Beijing,3
+Mali,Oxford/AstraZeneca,1
+Malta,Johnson&Johnson,4
+Malta,Moderna,4
+Malta,Oxford/AstraZeneca,4
+Malta,Pfizer/BioNTech,4
+Mauritania,Sinopharm/Beijing,1
+Mauritius,Covaxin,3
+Mauritius,Oxford/AstraZeneca,3
+Mauritius,Sinopharm/Beijing,3
+Mexico,CanSino,5
+Mexico,Oxford/AstraZeneca,5
+Mexico,Pfizer/BioNTech,5
+Mexico,Sinovac,5
+Mexico,SputnikV,5
+Moldova,Oxford/AstraZeneca,4
+Moldova,Pfizer/BioNTech,4
+Moldova,Sinopharm/Beijing,4
+Moldova,SputnikV,4
+Monaco,Pfizer/BioNTech,1
+Mongolia,Oxford/AstraZeneca,4
+Mongolia,Pfizer/BioNTech,4
+Mongolia,Sinopharm/Beijing,4
+Mongolia,SputnikV,4
+Montenegro,Oxford/AstraZeneca,4
+Montenegro,Pfizer/BioNTech,4
+Montenegro,Sinopharm/Beijing,4
+Montenegro,SputnikV,4
+Morocco,Oxford/AstraZeneca,2
+Morocco,Sinopharm/Beijing,2
+Mozambique,Oxford/AstraZeneca,2
+Mozambique,Sinopharm/Beijing,2
+Myanmar,Oxford/AstraZeneca,1
+Namibia,Oxford/AstraZeneca,2
+Namibia,Sinopharm/Beijing,2
+Nauru,Oxford/AstraZeneca,1
+Nepal,Oxford/AstraZeneca,2
+Nepal,Sinopharm/Beijing,2
+Netherlands,Johnson&Johnson,4
+Netherlands,Moderna,4
+Netherlands,Oxford/AstraZeneca,4
+Netherlands,Pfizer/BioNTech,4
+New Caledonia,Oxford/AstraZeneca,1
+New Zealand,Pfizer/BioNTech,1
+Nicaragua,Oxford/AstraZeneca,2
+Nicaragua,SputnikV,2
+Niger,Oxford/AstraZeneca,2
+Niger,Sinopharm/Beijing,2
+Nigeria,Oxford/AstraZeneca,1
+North Macedonia,Oxford/AstraZeneca,4
+North Macedonia,Pfizer/BioNTech,4
+North Macedonia,Sinopharm/Beijing,4
+North Macedonia,SputnikV,4
+Northern Cyprus,Oxford/AstraZeneca,3
+Northern Cyprus,Pfizer/BioNTech,3
+Northern Cyprus,Sinovac,3
+Northern Ireland,Moderna,3
+Northern Ireland,Oxford/AstraZeneca,3
+Northern Ireland,Pfizer/BioNTech,3
+Norway,Moderna,2
+Norway,Pfizer/BioNTech,2
+Oman,Oxford/AstraZeneca,2
+Oman,Pfizer/BioNTech,2
+Pakistan,CanSino,4
+Pakistan,Sinopharm/Beijing,4
+Pakistan,Sinovac,4
+Pakistan,SputnikV,4
+Palestine,Moderna,3
+Palestine,Oxford/AstraZeneca,3
+Palestine,Pfizer/BioNTech,3
+Panama,Oxford/AstraZeneca,2
+Panama,Pfizer/BioNTech,2
+Papua New Guinea,Oxford/AstraZeneca,2
+Papua New Guinea,Sinopharm/Beijing,2
+Paraguay,SputnikV,1
+Peru,Oxford/AstraZeneca,3
+Peru,Pfizer/BioNTech,3
+Peru,Sinopharm/Beijing,3
+Philippines,Oxford/AstraZeneca,4
+Philippines,Pfizer/BioNTech,4
+Philippines,Sinovac,4
+Philippines,SputnikV,4
+Poland,Johnson&Johnson,4
+Poland,Moderna,4
+Poland,Oxford/AstraZeneca,4
+Poland,Pfizer/BioNTech,4
+Portugal,Moderna,3
+Portugal,Oxford/AstraZeneca,3
+Portugal,Pfizer/BioNTech,3
+Qatar,Pfizer/BioNTech,1
+Romania,Johnson&Johnson,4
+Romania,Moderna,4
+Romania,Oxford/AstraZeneca,4
+Romania,Pfizer/BioNTech,4
+Russia,EpiVacCorona,2
+Russia,SputnikV,2
+Rwanda,Moderna,3
+Rwanda,Oxford/AstraZeneca,3
+Rwanda,Pfizer/BioNTech,3
+Saint Helena,Oxford/AstraZeneca,1
+Saint Kitts and Nevis,Oxford/AstraZeneca,1
+Saint Lucia,Oxford/AstraZeneca,1
+Saint Vincent and the Grenadines,Oxford/AstraZeneca,1
+San Marino,Pfizer/BioNTech,2
+San Marino,SputnikV,2
+Sao Tome and Principe,Oxford/AstraZeneca,1
+Saudi Arabia,Oxford/AstraZeneca,2
+Saudi Arabia,Pfizer/BioNTech,2
+Scotland,Moderna,3
+Scotland,Oxford/AstraZeneca,3
+Scotland,Pfizer/BioNTech,3
+Senegal,Sinopharm/Beijing,1
+Serbia,Oxford/AstraZeneca,4
+Serbia,Pfizer/BioNTech,4
+Serbia,Sinopharm/Beijing,4
+Serbia,SputnikV,4
+Seychelles,Oxford/AstraZeneca,2
+Seychelles,Sinopharm/Beijing,2
+Sierra Leone,Oxford/AstraZeneca,1
+Singapore,Moderna,2
+Singapore,Pfizer/BioNTech,2
+Slovakia,Pfizer/BioNTech,1
+Slovenia,Oxford/AstraZeneca,2
+Slovenia,Pfizer/BioNTech,2
+Solomon Islands,Oxford/AstraZeneca,1
+Somalia,Oxford/AstraZeneca,3
+Somalia,Sinopharm/Beijing,3
+Somalia,Sinovac,3
+South Africa,Johnson&Johnson,1
+South Korea,Oxford/AstraZeneca,2
+South Korea,Pfizer/BioNTech,2
+South Sudan,Oxford/AstraZeneca,1
+Spain,Johnson&Johnson,4
+Spain,Moderna,4
+Spain,Oxford/AstraZeneca,4
+Spain,Pfizer/BioNTech,4
+Sri Lanka,Oxford/AstraZeneca,2
+Sri Lanka,Sinopharm/Beijing,2
+Sudan,Oxford/AstraZeneca,4
+Sudan,Pfizer/BioNTech,4
+Sudan,Sinopharm/Beijing,4
+Sudan,Sinovac,4
+Suriname,Oxford/AstraZeneca,1
+Sweden,Oxford/AstraZeneca,2
+Sweden,Pfizer/BioNTech,2
+Switzerland,Moderna,2
+Switzerland,Pfizer/BioNTech,2
+Taiwan,Oxford/AstraZeneca,1
+Thailand,Oxford/AstraZeneca,2
+Thailand,Sinovac,2
+Timor,Oxford/AstraZeneca,1
+Togo,Oxford/AstraZeneca,1
+Tonga,Oxford/AstraZeneca,1
+Trinidad and Tobago,Oxford/AstraZeneca,1
+Tunisia,Pfizer/BioNTech,3
+Tunisia,Sinovac,3
+Tunisia,SputnikV,3
+Turkey,Pfizer/BioNTech,2
+Turkey,Sinovac,2
+Uganda,Oxford/AstraZeneca,1
+Ukraine,Oxford/AstraZeneca,3
+Ukraine,Pfizer/BioNTech,3
+Ukraine,Sinovac,3
+United Arab Emirates,Oxford/AstraZeneca,5
+United Arab Emirates,Pfizer/BioNTech,5
+United Arab Emirates,Sinopharm/Beijing,5
+United Arab Emirates,Sinopharm/Wuhan,5
+United Arab Emirates,SputnikV,5
+United Kingdom,Moderna,3
+United Kingdom,Oxford/AstraZeneca,3
+United Kingdom,Pfizer/BioNTech,3
+United States,Johnson&Johnson,3
+United States,Moderna,3
+United States,Pfizer/BioNTech,3
+Uruguay,Oxford/AstraZeneca,3
+Uruguay,Pfizer/BioNTech,3
+Uruguay,Sinovac,3
+Uzbekistan,Oxford/AstraZeneca,3
+Uzbekistan,RBD-Dimer,3
+Uzbekistan,SputnikV,3
+Venezuela,SputnikV,1
+Vietnam,Oxford/AstraZeneca,1
+Wales,Moderna,3
+Wales,Oxford/AstraZeneca,3
+Wales,Pfizer/BioNTech,3
+Wallis and Futuna,Oxford/AstraZeneca,1
+Zambia,Oxford/AstraZeneca,1
+Zimbabwe,Sinopharm/Beijing,1
